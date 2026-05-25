@@ -33,7 +33,7 @@ The lab used Splunk local event log collection to ingest Windows logs from the l
 * Security
 * System
 
-The screenshots show the local input configuration, confirmation that events are being indexed, search filtering by host and source, and dashboard creation.
+The lab evidence shows the local input configuration, confirmation that events are being indexed, search filtering by host and source, and dashboard creation.
 
 ## Example searches used
 
@@ -58,21 +58,19 @@ The filtered Security log search focused on Windows Event ID `5379`, which appea
 * Building a basic dashboard panel for monitoring.
 * Setting a custom Splunk dashboard as the home dashboard.
 
-## Screenshots
+## Screenshot evidence captured
 
-| Step | Evidence |
-| :--- | :--- |
-| Splunk Enterprise installation | ![Splunk Enterprise installation](assets/01-splunk-download.png) |
-| Select Windows Event Log inputs | ![Select Windows Event Log inputs](assets/02-selecting-inputs.png) |
-| Local event log input configured | ![Local event log input configured](assets/03-local-event-log.png) |
-| Data input menu | ![Data input menu](assets/04-data-input.png) |
-| Confirm logs are searchable | ![Confirm logs are searchable](assets/05-confirming-logs-are-working.png) |
-| Narrow search results | ![Narrow search results](assets/06-narrowing-down-the-search.png) |
-| Create table view | ![Create table view](assets/07-created-table-view-of-search.png) |
-| Create dashboard | ![Create dashboard](assets/08-creating-a-dashboard.png) |
-| Add table chart | ![Add table chart](assets/09-adding-a-table-chart.png) |
-| Add customized search to table | ![Add customized search to table](assets/10-adding-customized-search-for-table.png) |
-| Set dashboard as main dashboard | ![Set dashboard as main dashboard](assets/11-setting-dashboard-as-main-dash-on-home.png) |
+* Splunk Enterprise installation.
+* Selecting Windows Event Log inputs.
+* Local event log input configuration.
+* Data input menu.
+* Confirming logs are searchable.
+* Narrowing down the search results.
+* Creating a table view from the search.
+* Creating the dashboard.
+* Adding a table chart.
+* Adding a customized SPL search to the table.
+* Setting the custom dashboard as the main home dashboard.
 
 ## Outcome
 
