@@ -9,6 +9,12 @@
 - **Actively expanding my expertise** in firewall administration, security monitoring, and compliance frameworks including NIST 800-171 and CMMC.
 - **Collaboration and mentorship:** I enjoy working with teams to implement security best practices and empower others through documentation and training.
 
+## Featured cybersecurity labs
+
+| Lab | Focus |
+|---|---|
+| [Splunk Windows Event Log Home Lab](projects/splunk-windows-event-log-lab/) | Installed Splunk Enterprise, configured local Windows Event Log ingestion, validated Application, Security, and System log collection, filtered Security events with SPL, and built a Dashboard Studio table visualization. |
+
 ## Certifications
 
 I hold a number of industry certifications that demonstrate my commitment to continuous learning and professional development:
@@ -57,4 +63,4 @@ Below are thumbnails of my certifications stored in this repository’s `images/
 
 ---
 
-Thanks for visiting my profile! I'm always eager to connect with other cybersecurity professionals and enthusiasts. Feel free to explore my repositories (coming soon) and connect with me on LinkedIn.
+Thanks for visiting my profile! I'm always eager to connect with other cybersecurity professionals and enthusiasts. Feel free to explore my repositories and connect with me on LinkedIn.
